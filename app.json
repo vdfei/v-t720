@@ -1,0 +1,15 @@
+﻿{
+    "name": "Vl&Tr",
+    "description": "Deploy V&T to Heroku",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "VLESS ID, use uuid generator",
+            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+        }
+    },
+    "stack": "container",
+    "website": "https://github.com/vdfei/v&t720",
+    "repository": "https://github.com/vdfei/v&t720",
+    "stack": "container"
+}
